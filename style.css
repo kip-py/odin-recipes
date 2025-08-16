@@ -1,0 +1,19 @@
+.title {
+    background-color: palevioletred;
+    color:white;
+    padding:8px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list {
+    background-color: rgb(129, 197, 158);
+    border:0px;
+    padding:6px;
+    margin:4px;
+}
+
+.text {
+    color:white;
+    text-decoration: none;
+}
